@@ -1,3 +1,6 @@
 [submodule "green-turtle"]
 	path = green-turtle
 	url = https://github.com/linkeddata/green-turtle
+[submodule "json-ld"]
+	path = json-ld
+	url = https://github.com/digitalbazaar/jsonld.js
